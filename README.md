@@ -18,8 +18,11 @@ An automated card-dealing machine that accepts user input for number of players 
 4. Stepper motor rotates to each position
 5. DC motor releases one card per player per round 
 
-## Skills Demonstrated
+## Skills Demonstrated/Learned 
 - Embedded systems programming
 - Problem solving and system design 
 - Electromechanical integration
-- Rapid prototyping and frabrication
+- Rapid 3D prototyping and design in Tinkercad
+- 3D printing design mechanisms in Ultimaker Cura 
+- Laser cutting machine wood parts 
+  
